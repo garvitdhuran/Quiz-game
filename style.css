@@ -18,3 +18,66 @@ body{
     padding: 30px;
 
 }
+
+.app h1{
+    font-size: 35px;
+    text-align: center;
+    color: brown;
+    padding-bottom: 20px;
+    border-bottom: 1px solid black;
+    font-weight: 600;
+
+}
+
+.quiz{
+    padding: 20px;
+
+}
+
+.quiz h2{
+    font-size: 21px;
+    text-align: left;
+    font-weight: 600;
+    color:purple ;
+
+}
+ 
+.btn{
+    padding: 10px;
+    color:#222;
+    font-weight: 400;
+    width:100%;
+    border: 1px solid #222;
+    text-align: left;
+    border-radius: 5px;
+    margin: 10px 0;
+    cursor:pointer;
+
+
+
+}
+
+#next-btn{
+    background: plum;
+    color:black;
+    border:2px;
+    font-weight: 500px;
+    margin:20px auto 0;
+    padding:10px;
+    border-radius:4px;
+    cursor: pointer;
+    display: block;
+
+}
+
+
+
+#watermarkkk{
+    
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    color:palevioletred;
+    font-weight:500;
+    
+}
