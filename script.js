@@ -32,10 +32,16 @@ var score = 0
 
 
 
+
+
+
 var questionThing = document.getElementById("question")
 var btnArea = document.getElementById("answers-buttons")
 
 var nextBtn = document.getElementById("next-btn")
+
+// var qnum = document.getElementById("qnum")
+// var timerDisplay = document.getELementById("timer")
 
 
 nextBtn.style.display = "none"
